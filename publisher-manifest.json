@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "0d34f0911b6d1a1b6fc90695",
+  "owner": "qhwchdra",
+  "repo": "qhwchdra.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "f7118b60772ee574a64122fc",
+      "a": "Miru",
+      "b": "加速器官网",
+      "entity": "Miru",
+      "brand": "Miru",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8a76a83148e574f4bec7211804e101ae0f00364bfc84943fa015eba4a9fdae72",
+      "content": {
+        "primary_entity": "Miru",
+        "keyword1": "Miru",
+        "keyword2": "加速器官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择订阅客户端，常见系统均有对应方案。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备与用量选定套餐，按客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选好套餐，即刻连接",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比，帮助不同需求的用户找到合适的方案。",
+          "AI_FEATURES_INTRO": "从设备数量、流量与周期三个角度梳理选择思路。",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按常用设备数挑选。",
+          "AI_FEATURE_TEXT_2": "100GB、300GB、1000GB 三档流量，重度使用可优先旗舰版。",
+          "AI_FEATURE_TEXT_3": "按月灵活付费，按年付更省，长期使用可对比年付价格。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "流量档位",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到配置订阅的过程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "Miru 提供基础版、旗舰版与团队版三档套餐，覆盖单人、多设备与团队场景，按流量、设备数量与周期灵活选择。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备需求",
+          "AI_HIGHLIGHT_1": "三档套餐对应不同设备数",
+          "AI_HIGHLIGHT_2": "流量从 100GB 到 1000GB",
+          "AI_HIGHLIGHT_3": "按月与按年两种计费方式",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流量与设备，团队版面向多人多设备。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数与月均流量，在基础版、旗舰版、团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "确认所用系统与客户端，查看对应适配说明，预留必要的配置时间。",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅信息，完成后按需调整节点与连接方式。",
+          "AI_STEP_TITLE_1": "选定套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Miru 多档套餐灵活选",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Miru 支持哪些设备？",
+          "AI_FAQ_ANSWER_1": "Miru 提供手机、电脑和路由器等多个平台的客户端，具体可用版本以客户端下载页说明为准，安装后通过订阅链接导入配置。",
+          "AI_FAQ_QUESTION_2": "套餐可以中途升级吗？",
+          "AI_FAQ_ANSWER_2": "套餐按订阅周期计费，如需更高流量或更多设备数，可在当前周期结束后选择更高档位，具体操作参考账户管理说明。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付一次性支付全年费用，月均成本低于按月订阅。基础版年付 150 元，旗舰版 350 元，团队版 850 元。",
+          "AI_FAQ_QUESTION_4": "连接设备数怎么计算？",
+          "AI_FAQ_ANSWER_4": "同时在线设备数按套餐档位限制，基础版 3 台、旗舰版 5 台、团队版 20 台，同一时间超出数量可能无法连接。",
+          "AI_FAQ_QUESTION_5": "订阅链接如何导入客户端？",
+          "AI_FAQ_ANSWER_5": "复制订阅链接后，在客户端的订阅管理或配置导入选项中粘贴，更新节点列表即可使用，具体路径参考该客户端的帮助文档。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "f5314c4812eb3e739bdcc2539e0f264d5edea99846558774bb2bba07c2121ab3",
+    "sitemap.xml": "2f937a885a22825c26fdff0c85642cccf03f489d557edaeaf6ee2bea8258a1f4",
+    "robots.txt": "289d4c28723cf0b5c3ee1ee6afd3591b0b71848604cc99c959dafdb0fa1a472b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "f30e213888c387bee4f1b2f9bda1206db98aa62a81efb9f1381a2c400012741a"
+}
